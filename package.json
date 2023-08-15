@@ -9,11 +9,12 @@
     "ohno"
   ],
   "scripts": {
-    "install": "echo 'Hello there! This isn't too good to see...'"
+    "install": "echo 'Hello there! This isnt too good to see...'"
   },
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
+    "bradleymeck": "github:bmeck/npm-bradleymeck",
     "chalk": "^2.4.1"
   }
 }
