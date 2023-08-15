@@ -1,0 +1,19 @@
+{
+  "name": "bradleymeck",
+  "version": "1.0.3",
+  "description": "A personal card for Bradley Meck (@bmeck)",
+  "bin": {
+    "bradleymeck": "./bin/card.js"
+  },
+  "keywords": [
+    "ohno"
+  ],
+  "scripts": {
+    "install": "echo 'Hello there! This isn't too good to see...'"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
+  }
+}
